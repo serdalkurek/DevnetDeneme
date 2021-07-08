@@ -5,7 +5,7 @@ class Kisi:
 
 	def karsilama(self):
 		print("Hoş Geldin",self.ad)
-
+		print("Yaşınız :",self.yas)
 kisi1=Kisi("Serdal KÜREK",51)
 kisi1.karsilama()
 
